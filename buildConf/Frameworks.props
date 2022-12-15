@@ -1,10 +1,10 @@
 <Project>
   <PropertyGroup>
-    <TargetNet35>true</TargetNet35>
+    <TargetNet35>false</TargetNet35>
     <TargetNet461>false</TargetNet461>
     <TargetNet472>false</TargetNet472>
     <TargetNetCore>false</TargetNetCore>
-    <TargetNetStandard>false</TargetNetStandard>
+    <TargetNetStandard>true</TargetNetStandard>
     <TargetUnityNet461AOT>false</TargetUnityNet461AOT>
     <TargetUnityNet472AOT>false</TargetUnityNet472AOT>
     <TargetUnityAOT>false</TargetUnityAOT>
